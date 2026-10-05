@@ -1,0 +1,8 @@
+Criar arquivo .env
+PORT=3000
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=escola
+DB_DATABASE=testeDSB
+JWT_SECRET= senha_super_secreta
